@@ -1,11 +1,11 @@
 {
-  "twilliosid":"",
-  "twilliotoken":"",
-  "ppusername":"",
-  "pppassword":"",
-  "smsfrom":"+17322122112",
-  "smsto":"+17399999999",
-  "refreshinterval":90000,
-  "baseurl":"https://whatever.com",
-  "studentid":999999
+  "twilliosid":"AC1f2adf696e0326e1dee68e530513c5d8",
+  "twilliotoken":"c3c84ff725963ec1aa2ca43818ced132",
+  "ppusername":"mascharkaj24@glenrocknj.org",
+  "pppassword":"213431",
+  "smsfrom":"+12017856655",
+  "smsto":"+14246227085",
+  "refreshinterval":10000,
+  "baseurl":"https://parents.glenrocknj.org",
+  "studentid":213431
 }
